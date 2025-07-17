@@ -24,7 +24,7 @@ Deployment: Vercel (frontend), Render/Railway (backend)
 📦 Getting Started:
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/talktown.git
+   git clone https://github.com/mayankgaur0405/TalkTown.git
 
 2. Backend Setup:
    cd backend
@@ -71,7 +71,7 @@ Fork the repo and open a pull request.
 If you found this project helpful, give it a ⭐ on GitHub!
 
 ----------------------------
-Made with ❤️ by [Your Name]
+Made with ❤️ by Mayank Gaur
 
 Live Demo: https://talktown.vercel.app (if deployed)  
 Frontend: https://github.com/yourusername/talktown-frontend  
