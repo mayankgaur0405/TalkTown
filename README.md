@@ -52,6 +52,12 @@ CLIENT_URL=http://localhost:5173
 - setOnline
 
 ----------------------------
+ 📸Images:
+
+
+----------------------------
+
+----------------------------
 🚀 Deployment:
 Deployed on Render (backend) and Vercel (frontend)  
 Supports free hosting, SSL, and custom domains
