@@ -73,6 +73,4 @@ If you found this project helpful, give it a ⭐ on GitHub!
 ----------------------------
 Made with ❤️ by Mayank Gaur
 
-Live Demo: https://talktown.vercel.app (if deployed)  
-Frontend: https://github.com/yourusername/talktown-frontend  
-Backend: https://github.com/yourusername/talktown-backend
+Live Demo: https://talktown-8lif.onrender.com/
