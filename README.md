@@ -54,15 +54,33 @@ CLIENT_URL=http://localhost:5173
 ----------------------------
  📸Images:
 
- <img width="958" height="473" alt="talktown5" src="https://github.com/user-attachments/assets/60295367-48e2-412a-940f-dd6d1b752058" />
+### 📝 Sign Up / Sign In Page
 
+<img width="958" height="473" alt="talktown5" src="https://github.com/user-attachments/assets/60295367-48e2-412a-940f-dd6d1b752058" />
 
- <img width="960" height="470" alt="talktown2" src="https://github.com/user-attachments/assets/31eab73e-f6a8-4cc8-9bab-e59e50d10821" />
+---
 
+### 💬 Chatting Area
 
+<img width="960" height="470" alt="talktown2" src="https://github.com/user-attachments/assets/31eab73e-f6a8-4cc8-9bab-e59e50d10821" />
 
+---
 
-----------------------------
+### 👤 Edit Profile Section
+
+<img width="960" height="470" alt="talktown4" src="https://github.com/user-attachments/assets/a9568745-fb16-42db-bc36-fb3a07c5d52b" />
+
+---
+
+### 🎨 Theme Customization (32 Themes Available)
+
+<img width="960" height="472" alt="talktown3" src="https://github.com/user-attachments/assets/7e9e6420-b865-45ee-bf39-7b3cfe02669e" />
+
+---
+
+### 🌈 After Changing Theme
+
+<img width="959" height="475" alt="talktown1" src="https://github.com/user-attachments/assets/d5173e2d-2345-4c7b-a78e-691f43789813" />
 
 ----------------------------
 🚀 Deployment:
