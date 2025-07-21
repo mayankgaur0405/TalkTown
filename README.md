@@ -57,6 +57,10 @@ CLIENT_URL=http://localhost:5173
  <img width="958" height="473" alt="talktown5" src="https://github.com/user-attachments/assets/60295367-48e2-412a-940f-dd6d1b752058" />
 
 
+ <img width="960" height="470" alt="talktown2" src="https://github.com/user-attachments/assets/31eab73e-f6a8-4cc8-9bab-e59e50d10821" />
+
+
+
 
 ----------------------------
 
