@@ -2,6 +2,8 @@ TalkTown 💬 | Realtime Chat App using MERN Stack
 
 TalkTown is a real-time chat application where friends and strangers can connect instantly. Built using the MERN Stack with Socket.io, it enables live messaging with a sleek and responsive design using TailwindCSS and DaisyUI.
 
+Live Demo: https://talktown-8lif.onrender.com/
+
 ----------------------------
 ✨ Features:
 - Authentication & Authorization with JWT
@@ -104,4 +106,4 @@ If you found this project helpful, give it a ⭐ on GitHub!
 ----------------------------
 Made with ❤️ by Mayank Gaur
 
-Live Demo: https://talktown-8lif.onrender.com/
+
